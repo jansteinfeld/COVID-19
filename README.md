@@ -2,11 +2,11 @@
 Hier finden sich zwei Datensätze (*.xlsx und *.csv) mit Zahlen zu der aktuellen Entwicklung von bestätigten Covid-19-Fällen in Österreich. In den Datensätze werden sowohl Zahlen für Österreich Gesamt, als auch für die einzelnen österreichischen Bundesländer berichtet. Es finden sich sowohl Zahlen zu: *derzeit Erkrankte*, *Genesene* sowie *Verstorbene*.
 
 ## Quelle
-Bis zum 25.03.2020 15:00 wurden die Zahlen dieser Quelle entnommen:
-[derStandard!](https://www.derstandard.at/story/2000115810293/aktuelle-zahlen-zum-coronavirus)
+- Bis zum 25.03.2020 15:00 wurden die Zahlen dieser Quelle entnommen:
+[derStandard](https://www.derstandard.at/story/2000115810293/aktuelle-zahlen-zum-coronavirus)
 
-Ab dem 26.03.2020 08:00 wird die offizielle Quelle des Bundesministeriums für Soziales, Gesundheit, Pflege und Konsumentenschutz
-[BMSGPK!](https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html)
+- Ab dem 26.03.2020 08:00 stammen die Daten von der offiziellen Quelle des Bundesministeriums für Soziales, Gesundheit, Pflege und Konsumentenschutz
+[BMSGPK](https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html)
 
 ## Datensatz
 Variablenbeschreibung
