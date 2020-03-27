@@ -8,6 +8,10 @@ Hier finden sich zwei Datensätze (*.xlsx und *.csv) mit Zahlen zu der aktuellen
 - Ab dem 26.03.2020 08:00 stammen die Daten von der offiziellen Quelle des Bundesministeriums für Soziales, Gesundheit, Pflege und Konsumentenschutz
 [BMSGPK](https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html)
 
+### Update 2020-27-03
+Die Zahlen, die auf der Seite des Sozialministeriums veröffentlicht sind, scheinen derzeit nicht ganz vertrauenswürdig zu sein. Beispielsweise weichen die Zahlen von der Homepage des BMSGPK und dem amtlichen Dashboard vom BMSGPK voneinander ab. Die kommunizierten Veröffentlichungszeiten von 08:00 und 15:00 werden leider auch nicht immer eingehalten (bspw. 27.03. 13:00). Aus diesen Grund werden hier bis auf Weiteres nur noch Zahlen von "Der Standard" berichtet/gesammelt.
+
+
 ## Datensatz
 Variablenbeschreibung
 - date (Datum)
