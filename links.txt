@@ -1,0 +1,7 @@
+https://info.gesundheitsministerium.at/data/Geschlechtsverteilung.js
+https://info.gesundheitsministerium.at/data/Altersverteilung.js
+https://info.gesundheitsministerium.at/data/Bundesland.js
+https://info.gesundheitsministerium.at/data/Trend.js
+https://info.gesundheitsministerium.at/data/SimpleData.js
+https://info.gesundheitsministerium.at/data/Bezirke.js
+  
