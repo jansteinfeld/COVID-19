@@ -11,6 +11,8 @@ Hier finden sich zwei Datensätze (*.xlsx und *.csv) mit Zahlen zu der aktuellen
 ### Update 2020-27-03
 Die Zahlen, die auf der Seite des Sozialministeriums veröffentlicht sind, scheinen derzeit nicht ganz vertrauenswürdig zu sein. Beispielsweise weichen die Zahlen von der Homepage des BMSGPK und dem amtlichen Dashboard vom BMSGPK voneinander ab. Die kommunizierten Veröffentlichungszeiten von 08:00 und 15:00 werden leider auch nicht immer eingehalten (bspw. 27.03. 13:00). Aus diesen Grund werden hier bis auf Weiteres nur noch Zahlen von "Der Standard" berichtet/gesammelt.
 
+### Update 2020-03-30
+Der Standard fasst nun leider auf Ebene der Bundesländer die derzeit Erkrankten und Genesenen zusamemn zu den derzeit Erkrankten...damit werden auf der selbeen Seite unter der selben Kategorie unterschiedliche Zahlen berichtet (Bundesland vs. Land).
 
 ## Datensatz
 Variablenbeschreibung
